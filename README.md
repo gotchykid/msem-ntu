@@ -1,5 +1,7 @@
 # Claude Code Setup Guide
 
+> **English | [中文](README.zh-CN.md)**
+
 Pre-class setup instructions for the **MSEM Module (20 March 2026)**. This guide walks students through installing and configuring Claude Code on macOS or Windows in 10-15 minutes.
 
 ## Contents

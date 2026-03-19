@@ -1,5 +1,7 @@
 # Claude Code Installation Guide
 
+> **English | [中文](claude-code-install-guide.zh-CN.md)**
+
 > **MSEM Module — 20 March 2026**
 > Estimated time: 10–15 minutes.
 
