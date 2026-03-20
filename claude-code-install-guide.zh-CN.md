@@ -189,7 +189,7 @@ git --version
 
 1. 按键盘上的 **Windows 键**
 2. 输入 **PowerShell**
-3. 点击 **Windows PowerShell**（**不**需要"以管理员身份运行"）
+3. 右键点击 **Windows PowerShell**，选择 **以管理员身份运行**
 
 你应该看到一个类似这样的提示窗口：
 

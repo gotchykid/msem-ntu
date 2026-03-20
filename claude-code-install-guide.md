@@ -189,7 +189,7 @@ You should see something like `git version 2.x.x.windows.1`.
 
 1. Press the **Windows key** on your keyboard
 2. Type **PowerShell**
-3. Click **Windows PowerShell** (you do **not** need "Run as Administrator")
+3. Right-click **Windows PowerShell** and select **Run as Administrator**
 
 You should see a window with a prompt like:
 
